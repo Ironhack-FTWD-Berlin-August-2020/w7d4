@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import Home from "./Home";
 import About from "./About";
-import { Projects } from "./Projects";
+import Projects from "./Projects";
 import ProjectDetail from "./ProjectDetail";
 import Navbar from "./Navbar";
 import { Route, Switch } from 'react-router-dom';

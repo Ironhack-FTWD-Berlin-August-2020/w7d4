@@ -46,5 +46,5 @@ const Projects = () => {
     </div>
   );
 };
-
-export { Projects, myProjects };
+export default Projects;
+export { myProjects };
